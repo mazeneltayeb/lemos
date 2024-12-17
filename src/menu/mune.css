@@ -1,0 +1,23 @@
+.mune-filter{
+    width: 50dvw;
+}
+@media (width < 600px) {
+    .mune-filter{
+        width: 70dvw;
+    }
+}
+@media (width < 450px) {
+    .mune-filter{
+        width: 80dvw;
+    }
+}
+.mune-filter div{
+    background-color: #7f4d3e;
+    padding: 5px 15px;
+    border-radius: 69px;
+    color: #f9f871;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}

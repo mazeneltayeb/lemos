@@ -1,0 +1,66 @@
+
+
+[ 
+     {
+    "id":1,
+    "name":"Margarita ",
+    "category":"pizza",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"125",
+    "mprice":"105",
+    "img": "./img/pizaa/1.jpg",
+    "alt":"another"
+  },
+  {
+    "id":2,
+    "name":"Chicken Ranch",
+    "category":"pizza",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"170",
+    "mprice":"120",
+    "img": "./img/pizaa/2.jpg",
+    "alt":"another"
+  },
+  {
+    "id":3,
+    "name":"Hotdog",
+    "category":"pizza",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"150",
+    "mprice":"110",
+    "img": "./img/pizaa/3.jpg",
+    "alt":"another"
+  },
+  {
+    "id":4,
+    "name":"Chicken",
+    "category":"pizza",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"120",
+    "mprice":"90",
+    "img": "./img/pizaa/4.jpg",
+    "alt":"another"
+  },
+  {
+    "id":5,
+    "name":"Vegetable",
+    "category":"pizza",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"130",
+    "mprice":"100",
+    "img": "./img/pizaa/5.jpg",
+    "alt":"another"
+  }
+  
+
+]

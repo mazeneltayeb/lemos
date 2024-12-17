@@ -1,0 +1,107 @@
+
+
+[ 
+     {
+    "id":1,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/1.png",
+    "alt":"another"
+  },
+  {
+    "id":2,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/2.jpg",
+    "alt":"another"
+  },
+  {
+    "id":3,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/3.jpg",
+    "alt":"another"
+  },
+  {
+    "id":4,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/4.jpg",
+    "alt":"another"
+  },
+  {
+    "id":5,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/5.jpg",
+    "alt":"another"
+  },
+  {
+    "id":6,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/6.jpg",
+    "alt":"another"
+  },
+  {
+    "id":7,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/7.jpg",
+    "alt":"another"
+  }
+  ,
+  {
+    "id":8,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/8.jpg",
+    "alt":"another"
+  }
+  ,
+  {
+    "id":9,
+    "name":"GoldStander",
+    "category":"whey-protein",
+    "title":"lorem lrem lrem lorem lorem lorem lorem lorem lorem lorem",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "price":"2800",
+    "img": "./img/9.jpg",
+    "alt":"another"
+  } 
+  
+
+]

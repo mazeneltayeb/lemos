@@ -1,0 +1,66 @@
+
+
+[ 
+     {
+    "id":1,
+    "name":"GoldStander",
+    "category":"burger",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"125",
+    "mprice":"105",
+    "img": "./img/burger/1.jpg",
+    "alt":"another"
+  },
+  {
+    "id":2,
+    "name":"GoldStander",
+    "category":"burger",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"125",
+    "mprice":"105",
+    "img": "./img/burger/2.jpg",
+    "alt":"another"
+  },
+  {
+    "id":3,
+    "name":"GoldStander",
+    "category":"burger",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"125",
+    "mprice":"105",
+    "img": "./img/burger/3.jpg",
+    "alt":"another"
+  },
+  {
+    "id":4,
+    "name":"GoldStander",
+    "category":"burger",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"125",
+    "mprice":"105",
+    "img": "./img/burger/4.jpg",
+    "alt":"another"
+  },
+  {
+    "id":5,
+    "name":"GoldStander",
+    "category":"burger",
+    "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
+    "servings":"74",
+    "producing":"Optimum Nutrition",
+    "lprice":"125",
+    "mprice":"105",
+    "img": "./img/burger/5.jpg",
+    "alt":"another"
+  }
+  
+
+]
