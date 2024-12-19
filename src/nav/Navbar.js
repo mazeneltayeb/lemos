@@ -21,6 +21,10 @@ function NavBar() {
     }
   };
 
+  const ScrollToTop = () => {
+    window.scrollTo(0, 0);
+  }
+    
   useEffect(() => {
     window.addEventListener('scroll', handleScroll); // إضافة مستمع التمرير
     return () => {
@@ -41,10 +45,10 @@ function NavBar() {
         <img src={logoimg} alt="Error"/>
           </div>
             <ul className={` list-unstyled d-flex ms-auto my-auto ${showNavbar && "active"}`}>
-              <li>
+            <li onClick={ScrollToTop}>
                 <Link to="/">Home</Link>
               </li>
-              <li >
+              <li onClick={ScrollToTop}>
               <Link to="/mune">Menu</Link>
               </li>
              

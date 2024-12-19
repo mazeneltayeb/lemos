@@ -4,6 +4,8 @@ import logo from "../nav/img/398111342_677269547839034_2265390937036909134_n-rem
 import { FaFacebook } from "react-icons/fa";
 import { RiInstagramFill } from "react-icons/ri";
 import { FaPinterest } from "react-icons/fa";
+import { IoLogoWhatsapp } from "react-icons/io";
+import ReactWhatsapp from 'react-whatsapp';
 function Footer() {
 return(
  <div className="main-footer ">
@@ -11,9 +13,18 @@ return(
         <div className="col-lg-4 col-md-12 col-sm-12 d-flex justify-content-around align-items-center flex-column mb-sm-4 mb-md-0">
             <img src={logo} alt=""/>
             <div className=" w-100 d-flex justify-content-evenly align-items-center social-media mt-sm-4 ">
-            <FaFacebook />
-            <RiInstagramFill/>
-            <FaPinterest/>
+            <a  href="https://www.facebook.com/Lemos.Restaurant" target="_blank" rel="noreferrer">
+                <FaFacebook/>
+                </a>
+                <a href="https://www.instagram.com/lemos.restaurant/" target="_blank" rel="noreferrer">
+                <RiInstagramFill/>
+                </a>
+                     <ReactWhatsapp className="border-0 bg-transparent" number="+201002955430" message={`Hello Lemo's I want to communicate with someone `} >
+                     <IoLogoWhatsapp />
+                     </ReactWhatsapp>                                        
+                {/* <a>
+                <FaPinterest/>
+                </a> */}
             </div>
         </div>
         <div className="location-description col-lg-4 col-md-6 col-sm-12 align-items-center d-grid d-sm-flex d-md-grid flex-column">
