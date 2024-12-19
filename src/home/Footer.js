@@ -30,11 +30,11 @@ return(
         <div className="location-description col-lg-4 col-md-6 col-sm-12 align-items-center d-grid d-sm-flex d-md-grid flex-column">
             <h3>Location & Maps</h3>
             <div className="d-flex location-icon">
-                <p className="m-0 address">250 Woodbridge Center Dr.Woodbridg NJ 07095</p>
+                <p className="m-0 address"> طريق أحمد أبو زيد، التمساح، قسم أول الاسماعيلية، محافظة الإسماعيلية</p>
             </div>
            <div className="d-flex flex-md-column flex-sm-row  location-address">
                 <span className="me-sm-1">E-mail:</span>
-                <span className="me-sm-3">support@castlefurnitureegypt.com</span>
+                <span className="me-sm-3">support@lemos.com</span>
                 <span className="me-sm-3"> | </span>
                 <span className="me-sm-2">Phone:</span>
                 <span>010 03065607</span>
