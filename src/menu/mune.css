@@ -21,3 +21,7 @@
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+
+.mune-filter div a:hover{
+cursor: pointer;
+}

@@ -3,7 +3,7 @@
 [ 
      {
     "id":1,
-    "name":"GoldStander",
+    "name":"Classic",
     "category":"burger",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -15,7 +15,7 @@
   },
   {
     "id":2,
-    "name":"GoldStander",
+    "name":"Cheese Lava",
     "category":"burger",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -27,7 +27,7 @@
   },
   {
     "id":3,
-    "name":"GoldStander",
+    "name":"Roastbeef",
     "category":"burger",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -39,7 +39,7 @@
   },
   {
     "id":4,
-    "name":"GoldStander",
+    "name":"Corden Blue",
     "category":"burger",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",

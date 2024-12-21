@@ -20,7 +20,7 @@ function Menu() {
       <>
            <div className="mune mt-5 mb-5">
             <div className="mune-filter mx-auto d-flex justify-content-around">
-        <div >
+        <div>
           <a onClick={()=>{setProduct(<Pizza/>)}}>Pizza</a>
         </div>
         <div >

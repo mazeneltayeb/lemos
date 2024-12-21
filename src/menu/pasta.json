@@ -3,7 +3,7 @@
 [ 
      {
     "id":1,
-    "name":"GoldStander",
+    "name":"Red Sauce",
     "category":"pasta",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -15,7 +15,7 @@
   },
   {
     "id":2,
-    "name":"GoldStander",
+    "name":"Creamy",
     "category":"pasta",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -27,7 +27,7 @@
   },
   {
     "id":3,
-    "name":"GoldStander",
+    "name":"Spinach",
     "category":"pasta",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -39,7 +39,7 @@
   },
   {
     "id":4,
-    "name":"GoldStander",
+    "name":"Negresco",
     "category":"pasta",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
@@ -51,7 +51,7 @@
   },
   {
     "id":5,
-    "name":"GoldStander",
+    "name":"Lazanya",
     "category":"pasta",
     "title":"lorem - lrem - lrem - lorem - lorem - lorem - lorem ",
     "servings":"74",
